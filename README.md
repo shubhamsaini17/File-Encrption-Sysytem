@@ -12,4 +12,18 @@ Key Achievements:
 4.Comprehensive testing and validation, ensuring the highest level of security.
 
 
-Landing page
+Landing page:-
+![Capture1](https://github.com/shubhamsaini17/File-Encrption-Sysytem/assets/103417842/ae3bdae9-3d09-4a14-a856-3b8a493c1fba)
+
+features:- 
+-Login
+-SignUp
+-Reset Password
+
+Encryption / Decryption Window
+
+![Capture2](https://github.com/shubhamsaini17/File-Encrption-Sysytem/assets/103417842/06fbe499-495a-4145-aaa9-b9d54f4973e7)
+
+
+
+
